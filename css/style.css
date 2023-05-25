@@ -623,13 +623,33 @@ a[href*='tel'], a[href*='mailto'] {
 	position: relative;
 }
 
-
-
-
+/* The navbar container */
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  /* Navbar links */
+  .topnav a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+ 
 
 
 
 /* decorated yani havada uçan elmaslar*/
+
+
+
+
+
+
 
 
 
@@ -706,7 +726,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .box-default-title {
-	color: #404044;
+	color: #c7099e;
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: .16em;
@@ -2186,7 +2206,7 @@ textarea.form-input {
 }
 
 .form-output.success {
-	color: #98bf44;
+	color: #0ad3c2;
 }
 
 .radio .radio-custom,
@@ -5704,7 +5724,7 @@ html:not(.lt-ie10) .not-animated {
 	justify-content: center;
 	align-items: center;
 	padding: 20px;
-	background: #330549;
+	background: #490549;
 	transition: .3s all ease;
 }
 
@@ -6029,7 +6049,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-main-outer {
-	border-bottom: 1px solid rgba(255, 10, 10, 0.144);
+	border-bottom: 1.5px solid rgba(226, 43, 217, 0.479);
 }
 
 .rd-navbar-main-outer .rd-search .form-wrap .form-label {
