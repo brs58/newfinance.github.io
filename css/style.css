@@ -358,7 +358,7 @@ a, a:focus, a:active, a:hover {
 }
 
 a, a:focus, a:active {
-	color: #000000;
+	color: #b40cac;
 }
 
 a:hover {
@@ -374,7 +374,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .link-press {
-	color: #1b1b19;
+	color: #131312;
 }
 
 .privacy-link:hover {
@@ -386,7 +386,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .accent-link {
-	color: #23072b;
+	color: #b40cac;
 }
 
 .accent-link:hover {
@@ -644,11 +644,6 @@ a[href*='tel'], a[href*='mailto'] {
 
 
 /* decorated yani havada uçan elmaslar*/
-
-
-
-
-
 
 
 
@@ -5106,7 +5101,7 @@ html [class*='section-'].section-bottom-0 {
 .section-intro {
 	padding: 100px 0;
 	position: relative;
-	background-color: #505cfd;
+	background-color: #dfd00100;
 }
 
 @media (min-width: 992px) {
